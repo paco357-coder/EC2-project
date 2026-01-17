@@ -4,7 +4,7 @@ This project includes a Terraform configuration to provision an AWS EC2 instance
 
 ### Terraform Overview
 - Provider: AWS
-- Region: us-east-1
+- Region: us-east-1b
 - Resource: EC2 instance
 - Instance type: t2.micro (Free Tier eligible)
 - AMI: Amazon Linux 2023
