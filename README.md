@@ -3,4 +3,4 @@
 - Nginx web server accessed via public IP
 - Terminal showing Nginx installation and service start
 
-Screenshots are available in the `screenshots/` folder.
+Screenshots are available in the `screenshots/` folders.
