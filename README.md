@@ -4,3 +4,4 @@
 - Terminal showing Nginx installation and service start
 
 Screenshots are available in the `screenshots/` folders.
+Terraform
